@@ -1,0 +1,15 @@
+.App_MainBody{
+    text-align: center;
+}
+.App_MainBody > h1{
+    padding: 10px;
+    margin: 40px 0;
+}
+.todo__text__list{
+    margin: 20px 0;
+    padding: 20px 0;
+    border: 1px solid rgb(87, 74, 74);
+}
+.todo__text__list > li{
+    padding: 5px 0;
+}
